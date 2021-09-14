@@ -4,27 +4,27 @@ El UML fue creado para contruir un lenguake de modelado visual comun y semantica
 
 Es un lenguaje de modelado visual de proposito general orientado a objetos y comparable a los planos usados en otros campos y consiste en diferentes tipos de siagramas. EN general, los diagramas UML secriben los limites, la estructura y el comportamiento del sistema y los objetos que contiene.
 
-Cubre toda la documentacion de un sistema:
-* Aquitectura del sistema u sus detalles.
+Cubre toda la documentación de un sistema:
+* Arquitectura del sistema u sus detalles.
 * Expresar requisitos y pruebas.
 * Modelar las actividades de planificacion y gestion de versiones.
-## Caracteristicas
+## Características
 Ofrece vocabulario y reglas:
 * Para crear y leer modelos bien formados
 * Que constituyen los planos de un sistema de software.
 
 Es independiente del proceso de desarrollo
-* Un uso optimo se consigue en procesos dirigdos por casos de uso, centrados en la arquitectura, iterativos e incrementales.
+* Un uso óptimo se consigue en procesos dirigdos por casos de uso, centrados en la arquitectura, iterativos e incrementales.
 
-Cubre la diferentes vistas de la arquitectura de un sistema mientras evoluciona a traves del ciclo de visa del desarrollo de software.
+Cubre las diferentes vistas de la arquitectura de un sistema mientras evoluciona a traves del ciclo de visa del desarrollo de software.
 
 ## Ventajas
 Ventajas de UML
 * Es estándar => Facilita la comunicación
-* Está basado en metamodelo con una semántica bien definida
+* Está basado en meta modelo con una semántica bien definida
 * Se basa en una notación gráfica concisa y fácil de aprender y utilizar
 * Se puede utilizar para modelar sistemas software en diversos dominios:
-* Sistemas de información empresariales, Sistemas WEB, sistemas críticos y de tiempo real, etc.
+* Sistemas de información empresarial, Sistemas WEB, sistemas críticos y de tiempo real, etc.
 * Incluso en sistemas que no son software
 * Es fácilmente extensible
 
@@ -41,7 +41,7 @@ Es un dibujo geometrico con el que se genera la presentacion grafica de una prop
 
 Algunos elementos de los diagramas de objetos son:
 
-Objetos: Cada objeto se representa con un rectángulo con su nombre y el de su clase en la parte superior subrayados y separados por dos puntos. En caso de ser un objeto anónimo no se escribe su nombre, dejando solo el de la clase.
+Objetos: Cada objeto se representa con un rectángulo con su nombre y el de su clase en la parte superior subrayado y separado por dos puntos. En caso de ser un objeto anónimo no se escribe su nombre, dejando solo el de la clase.
 
 Atributos: De igual forma que el diagrama de clases, se muestra en un compartimento en la parte inferior del nombre del objeto. A diferencia de las clases, los atributos pueden tener valores asignados a ellos
 
