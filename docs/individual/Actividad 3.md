@@ -75,3 +75,8 @@ La restricción de duración es una restricción de intervalo que se refiere a u
 
 Restricción de tiempo
 La restricción de tiempo es una restricción de intervalo que se refiere a un intervalo de tiempo. El intervalo de tiempo es una expresión  utilizada para determinar si se cumple la restricción.
+
+## Referencias
+* http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro10/221_visin_general_de_uml.html
+* https://concepto.de/diagrama/
+* https://www.microsoft.com/es-mx/microsoft-365/business-insights-ideas/resources/guide-to-uml-diagramming-and-database-modeling#:~:text=Existen%20dos%20tipos%20principales%20de,los%20diferentes%20tipos%20de%20personas.
