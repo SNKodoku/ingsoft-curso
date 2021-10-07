@@ -67,7 +67,7 @@ Los diagramas de Gantt son un sistema que gusta especialmente a los gestores de 
  |  G	 |  D, E, F	|     3    |
  |  H	 |    GFF	|     2    |
 
-![Imagen](/docs/individual/Actividad-02/my_image)
+<img src="/docs/individual/Actividad-02/ejemplo uml.png" alt="drawing" width="200" style="width: 25%;"/>
 
 ## Referencias
 * http://www.colegio-isma.com.ar/Secundaria/Apuntes/Mercantil/4%20Mer/Administracion/Diagrama%20de%20Gantt.pdf
