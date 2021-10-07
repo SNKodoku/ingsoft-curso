@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Lozano Perez Johan Andres
+- **Correo**: 420098597@pcpuma.acatlan.unam.mx
